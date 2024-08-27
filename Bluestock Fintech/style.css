@@ -1,0 +1,364 @@
+.navbar .logo {
+    background: url("Images/logo.png") 50% / cover no-repeat;
+    margin: 10px 25px 13px 0;
+    width: 85px;
+    height: 45px;
+  }
+  .navbar .bluestock {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 45px;
+    color: #1E1E1E;
+  }
+  .navbar .container-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .navbar .products {
+    margin-right: 11.5px;
+    width: 128.7px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .community {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .media {
+    margin-right: 11px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .polygon-1 {
+    margin: 6px 0 11px 0;
+    width: 11.4px;
+    height: 6px;
+  }
+  .navbar .media-menu {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .navbar .support {
+    margin-right: 10px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .arrow-1 {
+    transform: rotate(-41.186deg);
+    margin: 8px 0;
+    width: 8px;
+    height: 7px;
+  }
+  .navbar .support-menu {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .navbar .live-news {
+    margin-right: 14.5px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .rectangle-11 {
+    border-radius: 2px;
+    background: #3F52FF;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 38px;
+    height: 16px;
+  }
+  .navbar .new {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 11px;
+    color: #FFFFFF;
+  }
+  .navbar .new-btn {
+    border-radius: 2px;
+    position: relative;
+    margin: 2px 0 4px 0;
+    display: flex;
+    padding: 0 6.9px 0 5.9px;
+    box-sizing: border-box;
+  }
+  .navbar .container {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .navbar .navbar-links {
+    margin: 20px 0 25px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 693.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .navbar .sign-in {
+    margin: 7px 35.7px 12px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #9A9A9A;
+  }
+  .navbar .sign-up-now {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .navbar .sign-up-now-btn {
+    border-radius: 5px;
+    background: #3F52FF;
+    position: relative;
+    margin-right: 35.2px;
+    display: flex;
+    padding: 7px 0 12px 9.2px;
+    width: 153.8px;
+    box-sizing: border-box;
+  }
+  .navbar .vector {
+    width: 15.6px;
+    height: 21.9px;
+  }
+  .navbar .grip-vertical {
+    margin: 8.4px 0 11.7px 0;
+    display: flex;
+    width: 15.6px;
+    height: 21.9px;
+    box-sizing: border-box;
+  }
+  .navbar .navabar-sign-in-up {
+    margin: 10px 0 16px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .navbar {
+    box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.02);
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 27px 107.6px 29px 86px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  
+  .app-20 .rectangle-11 {
+    border-radius: 5px;
+    background: #00AE70;
+    position: absolute;
+    left: 50%;
+    top: 3px;
+    translate: -50% 0;
+    width: 0px;
+    height: 0px;
+  }
+  .app-20 .new {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 23px;
+    color: green;
+  }
+  .app-20 .new-intro-1 {
+    border-radius: 5px;
+    position: relative;
+    margin-right: 14.2px;
+    display: flex;
+    padding: 0 18.4px 0 18.7px;
+    box-sizing: border-box;
+  }
+  .app-20 .app-201 {
+    margin: 1px 14.8px 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+  }
+  .app-20 .arrow-2 {
+    background: #000000;
+    margin: 15.5px 0 17.5px 0;
+    width: 0px;
+    height: 0px;
+  }
+  .app-20 .new-intro {
+    margin: 0 2px 33px 2px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .app-20 .free-open-stock-market-analytics-for-gen-z {
+    margin-bottom: 5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 51px;
+    color: #000000;
+  }
+  .app-20 .thousands-of-traders-and-investors-in-india-use-our-stable-and-reliable-mobile-app-regularly {
+    margin: 0 2px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 21px;
+    color: #9A9A9A;
+  }
+  .app-20 .container {
+    margin: 54px 124px 229px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .app-20 .rectangle-4234 {
+    border-radius: 15px;
+    background: #EDF1FF;
+    width: 0px;
+    height: 0px;
+  }
+  .app-20 {
+    display: flex;
+    flex-direction: row;
+    width: 0px;
+    box-sizing: border-box;
+  }
+  
+
+  .animation .built-for-agrowing-india {
+    margin: 0 3px 29px 3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    color: #9A9A9A;
+  }
+  .animation .its-easy {
+    margin: 0 3px 69px 3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 64px;
+    background: linear-gradient(180deg, #AD00FF, #4200FF);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .animation .its-beautiful {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 55px;
+    background: linear-gradient(180deg, #AD00FF, #4200FF);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .animation .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .animation .its-powerful {
+    position: absolute;
+    left: 0px;
+    bottom: 83px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 51px;
+    color: #000000;
+  }
+  .animation .bluestock-great {
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .animation .drender-thumb-up-sign-isolated-hand-gesture-removebg-preview-1 {
+    background: url('Images/Thumb.png') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 0px;
+    height: 0px;
+  }
+  .animation .we-run-billions-of-computations-every-second-to-provide-lightning-fast-backtesting-real-time-alerts-and-scanning {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    color: #595959;
+  }
+  .we-run-billions-of-computations-every-second-to-provide-lightning-fast-backtesting-real-time-alerts-and-scanning-sub15 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #000000;
+  }
+  .we-run-billions-of-computations-every-second-to-provide-lightning-fast-backtesting-real-time-alerts-and-scanning-sub16 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #595959;
+  }
+  .we-run-billions-of-computations-every-second-to-provide-lightning-fast-backtesting-real-time-alerts-and-scanning {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #000000;
+  }
+  .animation .container {
+    margin: 26px 0 23px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .animation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 0px;
+    box-sizing: border-box;
+  }
+  
